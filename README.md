@@ -1,5 +1,5 @@
 # numpy.random-package
-![Random_Number_Generator](/Images/Random number generator.png)
+![Random Number Generator](/Images/Random-number-generator.png)
 ## Scope
 To explain the numpy.random package and its overall purpose including detailed explanations of at least five of the distributions provided for in the package.
 [See here for instructions](/ProgDA_Assignment.pdf)
