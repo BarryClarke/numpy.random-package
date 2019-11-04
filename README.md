@@ -24,8 +24,20 @@ The documents and description of all functions withing the numpy.random package 
 
 
 ## Simple random data functions
-Please refer to the jupyter notebook file to summarise some of the main features from within the Simple Random data functions
+numpy.random.rand
+numpy.random.randn
+numpy.random.randint
+numpy.random.random_sample
+numpy.random.choice
 
 ## Permutations
+numpy.random.shuffle
+numpy.random.permutation
+
+## Distributions
+numpy.random.binomial
+numpy.random.geometric
+numpy.random.negative_binomial
+numpy.random.f
 
 
