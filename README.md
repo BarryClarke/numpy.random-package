@@ -16,28 +16,29 @@ To explain the numpy.random package and its overall purpose including detailed e
 
 ## Description and purpose of the numpy.random package
 NumPy is the fundamental package for scientific computing in Python. It is a package that deals with multidimensional arrays and performs a lot of different operations really quickly. An important part of any simulation is the ability to generate random numbers. For this purpose, NumPy provides the numpy.random sub package. Within the numpy.random package there are 4 distinct sections to understand
-    Simple Random data
-    Permutations
-    Distributions
-    Pseudorandon numbers
+  * Simple Random data
+  * Permutations
+  * Distributions
+  * Pseudorandon numbers
 The documents and description of all functions withing the numpy.random package can be found at [numpy.random docs](https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html)
 
 
 ## Simple random data functions
-numpy.random.rand
-numpy.random.randn
-numpy.random.randint
-numpy.random.random_sample
-numpy.random.choice
+- numpy.random.rand
+- numpy.random.randn
+- numpy.random.randint
+- numpy.random.random_sample
+- numpy.random.choice
 
 ## Permutations
-numpy.random.shuffle
-numpy.random.permutation
+- numpy.random.shuffle
+- numpy.random.permutation
 
 ## Distributions
-numpy.random.binomial
-numpy.random.geometric
-numpy.random.negative_binomial
-numpy.random.f
+- numpy.random.binomial
+- numpy.random.geometric
+- numpy.random.negative_binomial
+- numpy.random.f
+- numpy.tandom.multinomial
 
 
