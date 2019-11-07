@@ -35,6 +35,12 @@ To view the source code in jupyter notebook, please follow the below instruction
     - 5.4 numpy.random.f
     - 5.5 numpy.tandom.multinomial
 6. Generating pseudorandom numbers
+    - 6.1 numpy.random.seed
+    - 6.2 Uses for numpy.random.seed
+        - 6.2.1 Sharing code
+        - 6.2.2 Probability and Statistics
+        - 6.2.3 Random Sampling
+        - 6.2.4 Machine Learning
 
 
 
