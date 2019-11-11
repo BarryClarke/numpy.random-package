@@ -5,6 +5,7 @@
 To explain the numpy.random package and its overall purpose including detailed explanations of at least five of the distributions provided for in the package.
 [See here for instructions](/ProgDA_Assignment.pdf)
 
+## Desciption
 The main body of work in this assignment is performed in a jupyter notebook. If viewing through Github, the ipynb file is best viewed through nbviewer, as certain text formatting will not load correctly when viewing through GitHub. Please follow the below link to view the notebook in nbviewer [numpy.random-package jupyter notebook](https://nbviewer.jupyter.org/github/BarryClarke/numpy.random-package/blob/master/numpy.random%20package.ipynb). 
 
 To view the source code in jupyter notebook, please follow the below instructions:
